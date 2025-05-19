@@ -35,7 +35,7 @@ header > h1{
     /* texto maiusculo- text-transform: uppercase; */
     font-variant:small-caps ;
     font-family: var(--fonte2);
-    font-size: 8vw;
+    font-size: 10vw;
     
 }
 
@@ -53,12 +53,12 @@ header a:hover, footer a:hover{
 }
 
 section{
-    padding-top:10vh;
-    padding-bottom: 10vh;
-    line-height: 2em;
+    padding-top:11vh;
+    padding-bottom: 11vh;
+    line-height: 2.1em;
     padding-left: 30px;
     font-family: var(--fonte3);
-    font-size: 3.5vw;
+    font-size: 4.5vw;
    
 }
 section.normal{
