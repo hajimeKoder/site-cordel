@@ -53,10 +53,12 @@ header a:hover, footer a:hover{
 }
 
 section{
-    padding: 10vh 0vh 10vh 30px ;
-    line-height: 2.5em;
+    padding-top:10vh;
+    padding-bottom: 10vh;
+    line-height: 2em;
+    padding-left: 30px;
     font-family: var(--fonte3);
-    font-size: 4em;
+    font-size: 3.5vw;
    
 }
 section.normal{
@@ -68,7 +70,7 @@ section > p{
     padding-bottom: 2em;
 }
 section.imagem{
-    background-color: rgb(49, 49, 49);
+    background-color: rgb(2, 2, 2);
     color: white;
 
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.404);
@@ -79,8 +81,8 @@ section.imagem{
 section.imagem >p{
     display: inline-block;
     padding: 5px;
-    background-color: rgba(41, 41, 41, 0.466);
-    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.788);
+    background-color: rgba(41, 41, 41, 0.322);
+    text-shadow: 0px 4px 2px rgba(0, 0, 0, 0.342);
 
 
 }
